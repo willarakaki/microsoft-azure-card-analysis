@@ -1,0 +1,26 @@
+# Variáveis de Ambiente (Segurança)
+.env
+.env.local
+.env.stack
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Arquivos de Sistema e IDE
+.DS_Store
+.vscode/
+.cursor/
+Thumbs.db
+
+# Dados Temporários/Logs
+*.log
+src/utils/__pycache__/
+src/services/__pycache__/

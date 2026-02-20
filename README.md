@@ -2,7 +2,8 @@
 
 Este projeto é uma ferramenta de **Inteligência Artificial aplicada a Finanças**. Ele utiliza o serviço **Azure AI Document Intelligence** para ler e validar informações de cartões de crédito a partir de imagens, automatizando processos que antes seriam manuais e propensos a erros.
 
-
+<img src="./src/img/tela_carregando.png" alt="Tela do sistema carregando" width="500">
+<img src="./src/img/cartao_pronto.png" alt="Tela com cartão de crédito" width="500">
 
 ## 🚀 Tecnologias Utilizadas
 * **Python 3.10+**
